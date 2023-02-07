@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Selenium\FLOtesting\FLOtesting\bin\Debug\FLOtesting.exe.config
+C:\Users\ASUS\Desktop\Selenium\FLOtesting\FLOtesting\bin\Debug\FLOtesting.exe
+C:\Users\ASUS\Desktop\Selenium\FLOtesting\FLOtesting\bin\Debug\FLOtesting.pdb
+C:\Users\ASUS\Desktop\Selenium\FLOtesting\FLOtesting\bin\Debug\FloSDK.dll
+C:\Users\ASUS\Desktop\Selenium\FLOtesting\FLOtesting\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\Selenium\FLOtesting\FLOtesting\obj\Debug\FLOtesting.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Selenium\FLOtesting\FLOtesting\obj\Debug\FLOtesting.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\Selenium\FLOtesting\FLOtesting\obj\Debug\FLOtesting.Form1.resources
+C:\Users\ASUS\Desktop\Selenium\FLOtesting\FLOtesting\obj\Debug\FLOtesting.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Selenium\FLOtesting\FLOtesting\obj\Debug\FLOtesting.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Selenium\FLOtesting\FLOtesting\obj\Debug\FLOtesting.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Selenium\FLOtesting\FLOtesting\obj\Debug\FLOtesting.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Selenium\FLOtesting\FLOtesting\obj\Debug\FLOtesting.exe
+C:\Users\ASUS\Desktop\Selenium\FLOtesting\FLOtesting\obj\Debug\FLOtesting.pdb
