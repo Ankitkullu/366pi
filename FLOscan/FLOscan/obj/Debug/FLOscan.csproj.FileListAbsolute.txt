@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\Selenium\FLOscan\FLOscan\obj\Debug\FLOscan.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Selenium\FLOscan\FLOscan\obj\Debug\FLOscan.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\Selenium\FLOscan\FLOscan\obj\Debug\FLOscan.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Selenium\FLOscan\FLOscan\bin\Debug\FLOscan.exe.config
+C:\Users\ASUS\Desktop\Selenium\FLOscan\FLOscan\bin\Debug\FLOscan.exe
+C:\Users\ASUS\Desktop\Selenium\FLOscan\FLOscan\bin\Debug\FLOscan.pdb
+C:\Users\ASUS\Desktop\Selenium\FLOscan\FLOscan\bin\Debug\FloSDK.dll
+C:\Users\ASUS\Desktop\Selenium\FLOscan\FLOscan\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\Selenium\FLOscan\FLOscan\obj\Debug\FLOscan.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Selenium\FLOscan\FLOscan\obj\Debug\FLOscan.exe
+C:\Users\ASUS\Desktop\Selenium\FLOscan\FLOscan\obj\Debug\FLOscan.pdb
